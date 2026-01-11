@@ -13,8 +13,8 @@ app.use(cors({
   origin: [
     'http://localhost:5173',
     'http://localhost:5174',
-    'https://scholarstream-project.web.app',
-    'https://scholarstream-project.firebaseapp.com'
+    'https://scholarstreambd.web.app',
+    'https://scholarstreambd.firebaseapp.com'
   ],
   credentials: true
 }));
