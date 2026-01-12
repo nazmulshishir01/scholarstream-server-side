@@ -5,7 +5,7 @@ Backend API server for ScholarStream scholarship management platform.
 ## 🌐 Live Demo
 
 - **Server:** [https://scholarstream-server.vercel.app](https://scholarstream-server.vercel.app)
-- **Client:** [https://scholarstream-project.web.app](https://scholarstream-project.web.app)
+- **Client:** [https://scholarstreambd.web.app)
 
 ## ✨ Features
 
